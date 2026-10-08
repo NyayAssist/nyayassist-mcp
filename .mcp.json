@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nyayassist": {
+      "type": "http",
+      "url": "https://mcp.nyayassist.ai/mcp"
+    }
+  }
+}

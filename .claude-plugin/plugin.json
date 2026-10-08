@@ -1,0 +1,14 @@
+{
+  "name": "nyayassist",
+  "version": "1.0.0",
+  "description": "Indian legal research, drafting, translation, matter and due-diligence tools from NyayAssist, for advocates.",
+  "author": {
+    "name": "NyayAssist",
+    "email": "support@nyayassist.ai",
+    "url": "https://nyayassist.ai"
+  },
+  "homepage": "https://docs.nyayassist.ai/get-started-with-mcp/",
+  "repository": "https://github.com/NyayAssist/nyayassist-mcp",
+  "license": "MIT",
+  "keywords": ["legal", "india", "legal-research", "drafting", "judgments", "due-diligence", "mcp"]
+}

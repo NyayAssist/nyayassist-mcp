@@ -1,0 +1,11 @@
+{
+  "name": "nyayassist",
+  "version": "1.0.0",
+  "description": "Indian legal research, drafting, translation, matter and due-diligence tools from NyayAssist, for advocates.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "nyayassist": {
+      "httpUrl": "https://mcp.nyayassist.ai/mcp"
+    }
+  }
+}
